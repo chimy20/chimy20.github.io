@@ -1,5 +1,5 @@
 'use strict';
-
+//tutorial from webdevtrick.com
 function MyQuiz(questions) {
     this.score = 0;
     this.questions = questions;
