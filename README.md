@@ -1,2 +1,5 @@
 # chimy20.github.io
-ATLA quiz using JS, HTML &amp; CSS
+Avatar the last Airbender quiz 
+Made using html, css and JS
+Run by opening quiz.html in browser from local directory
+or go live in visual studio code using Live server extension
